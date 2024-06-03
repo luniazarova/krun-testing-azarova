@@ -1,4 +1,4 @@
-# This is an attempt to better improve the process of using krun.
+# This is an attempt to better improve the process of using krun. Do NOT use/build this fork...use teohhanhui/krun (one of their branches) or slp/krun!
 
 
 
