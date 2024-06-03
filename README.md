@@ -2,7 +2,7 @@
 
 
 
-~Info about krun...<br>
+~Info about krun...<br><br>
 `Slp and Teohhanhui are the main people working on krun. Please buy Teohhanhui a coffee (link in their guide)
 
 `krun` allows you to run arbitrary programs from your system in a microVM. It's comprised of two small programs:
