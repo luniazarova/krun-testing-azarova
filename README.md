@@ -1,4 +1,9 @@
-# krun - run programs from your system in a microVM
+# This is an attempt to better improve the process of using krun.
+
+
+
+~Info about krun...
+`Slp and Teohhanhui are the main people working on krun. Please buy Teohhanhui a coffee (link in their guide)
 
 `krun` allows you to run arbitrary programs from your system in a microVM. It's comprised of two small programs:
 
@@ -35,4 +40,8 @@ If [FEX-Emu](https://fex-emu.com/) is installed in your system, `krun` will conf
 
 This tool is mainly intended to enable users to easily run programs designed for 4K-page systems on systems with a different page size, with [Asahi Linux](https://asahilinux.org/) being the prime example of this use case.
 
-Other potential use cases could be software isolation, accessing privileged kernel features (provided by the guest) or local testing.
+Other potential use cases could be software isolation, accessing privileged kernel features (provided by the guest) or local testing.`
+
+The aim of this fork is to make this stuff simpler for the non-nerdy end-user to understand and, provided they understand the risks of running unreleased software (like NOT asking the Asahi folk for support about it...), get krun up and running.
+
+Don't expect any of this to work. I would *not* clone this repository and attempt to use it on your system. Note: I won't be using the distrobox (this could break your system- do not do!)
